@@ -1,0 +1,27 @@
+{
+    "name": "firebase-to-mailchimp",
+    "version": "1.0.0",
+    "description": "A simple node script which watched your firebase database and adds users to a mailchimp list",
+    "main": "firebase-to-mailchimp.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aaron-russell/Firebase-to-Mailchimp.git"
+    },
+    "keywords": [
+        "firebase",
+        "mailchimp"
+    ],
+    "author": "Aaron Russell",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/aaron-russell/Firebase-to-Mailchimp/issues"
+    },
+    "homepage": "https://github.com/aaron-russell/Firebase-to-Mailchimp#readme",
+    "dependencies": {
+        "firebase-admin": "^4.0.5",
+        "mailchimp-api-v3": "^1.7.0"
+    }
+}
