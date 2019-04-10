@@ -42,3 +42,6 @@ Adding firebase user mctestface@test.com(uid) to the mailchimp list.
 It will also change the mailchimp: false in the database to be true, so not to add it the list again.
 
 If an error occurs it will return the error to the console.
+
+## Authors
+* [Aaron Russell](https://aaron-russell.co.uk/?utm_source=github&utm_medium=referral&utm_campaign=github-repo)
