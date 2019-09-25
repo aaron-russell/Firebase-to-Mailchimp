@@ -21,7 +21,7 @@
     },
     "homepage": "https://github.com/aaron-russell/Firebase-to-Mailchimp#readme",
     "dependencies": {
-        "firebase-admin": "^4.0.5",
+        "firebase-admin": "^8.6.0",
         "mailchimp-api-v3": "^1.7.0"
     }
 }
