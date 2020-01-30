@@ -1,4 +1,7 @@
 # Firebase-to-Mailchimp
+
+## Leaving this here for reference as firebase now lets you do this natively
+
 A simple node script which watched your firebase database and adds users to a mailchimp list
 
 This simple script runs and adds any new users to a firebase database and adds them to a mailchimp list.
